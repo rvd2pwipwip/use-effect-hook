@@ -1,4 +1,5 @@
-//dude
+// https://alligator.io/react/replacing-component-lifecycles-with-useeffect/
+
 import React from "react";
 import { Container, Button, Row } from "reactstrap";
 import axios from "axios";
